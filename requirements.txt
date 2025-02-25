@@ -1,0 +1,7 @@
+# Requirements for the project ‘Breast Cancer Diagnosis with the Perceptron’.
+
+numpy>=1.18
+pandas>=1.0
+matplotlib>=3.0
+scikit-learn>=0.22
+jupyter>=1.0
