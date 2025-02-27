@@ -1,0 +1,10 @@
+# Requirements for the project 'Breast Cancer Diagnosis with the Perceptron'
+# Updated requirements for Python script version
+
+numpy>=1.21.0
+pandas>=1.3.0
+matplotlib>=3.4.0
+scikit-learn>=1.0.0
+seaborn>=0.11.0
+jupyter>=1.0.0  # Optional - only needed if you want to use Jupyter notebooks
+PyQt5>=5.15.0  # For the graphical interface
