@@ -7,4 +7,4 @@ matplotlib>=3.4.0
 scikit-learn>=1.0.0
 seaborn>=0.11.0
 jupyter>=1.0.0  # Optional - only needed if you want to use Jupyter notebooks
-tk>=0.1.0  # Para la interfaz gráfica
+PyQt5>=5.15.0  # For the graphical interface
