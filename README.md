@@ -31,10 +31,8 @@ This project implements a **perceptron** model for breast cancer diagnosis. The 
 
 ## Screenshots / Demo
 
-If you want to include images or GIFs demonstrating the model's functionality, you can do so as follows:
+![image](https://github.com/user-attachments/assets/3a9644e2-1afa-45d9-81f7-8276a4449469)
 
-```markdown
-![Notebook Demo](path/to/your_image.png)
 
 ---
 
@@ -51,12 +49,11 @@ Note: These elements ensure that the project is understandable and reproducible.
 Before installing the project, make sure you have the following tools installed:
 
 Tool	            Minimum Version
-Python	            3.7
-NumPy	            1.18
-pandas	            1.0
-matplotlib	        3.0
-scikit-learn	    0.22
-Jupyter Notebook	-
+- Python	            3.7
+- NumPy	              1.18
+- pandas	            1.0
+- matplotlib	        3.0
+- scikit-learn	      0.22
 
 Recommendation: Use a virtual environment to avoid dependency conflicts.
 
@@ -102,10 +99,9 @@ Perceptron Parameters: Modify the learning rate and the number of iterations in 
 Dataset Path: Change the path if you want to use another dataset.
 
 In Python:
-# Example configuration in the notebook
+### Example configuration in the file
 LEARNING_RATE = 0.01
 NUM_ITERATIONS = 1000
-DATASET_PATH = "path/to/dataset.csv"
 
 ---
 
